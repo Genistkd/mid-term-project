@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 /*html{
+=======
+/* html{
+>>>>>>> 5e689a493774318d716229388cbde2bc014b4897
     background-color: #f2f4fc;
 }
 
@@ -44,4 +48,12 @@ nav {
     align-self: center;
     padding: 1rem;
     
+<<<<<<< HEAD
 }*/
+=======
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> 5e689a493774318d716229388cbde2bc014b4897
