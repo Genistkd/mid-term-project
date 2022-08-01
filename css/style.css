@@ -1,4 +1,4 @@
-html{
+/* html{
     background-color: #f2f4fc;
 }
 
@@ -43,4 +43,8 @@ nav {
     align-self: center;
     padding: 1rem;
     
-}
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
